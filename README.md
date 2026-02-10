@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id" width="180" style="border-radius:50%" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Bhavish B K</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;Next.js+Developer;Open+to+Work)
+
 
 
 <p align="center">
